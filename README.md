@@ -5,4 +5,4 @@ My name is Muhammad Riza and I code something that supposed to works on web brow
 You can also find me here:
 
 - [Twitter](https://twitter.com/sagwascript)
-- [LinkedIn](linkedin.com/in/sagwascript)
+- [LinkedIn](https://linkedin.com/in/sagwascript)
