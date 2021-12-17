@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Muhammad Riza and I code something that supposed to works on web browser, so called Web Developer.
+My name is Muhammad Riza and I code something that supposed to work on web browser, so called Web Developer.
 
 You can also find me here:
 
